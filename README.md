@@ -1,6 +1,5 @@
 # Credit Card
 
-  - [Demo Project](https://amirmohammadianaftah.github.io/ToDo-List/)
   - 
 - Developed by Amir Mohammadian
 - Created - 2024-11-1
